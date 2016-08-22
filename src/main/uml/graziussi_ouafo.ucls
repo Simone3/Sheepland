@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <package id="1" language="java" name="it.polimi.graziussi_ouafo.controller" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="2214" width="1072" x="965" y="-48"/>    
+    <display autosize="false" stereotype="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="it.polimi.graziussi_ouafo.events" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/events" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="398" width="1093" x="2048" y="1765"/>    
+    <display autosize="false" stereotype="false" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="it.polimi.graziussi_ouafo.main" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/main" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="623" width="965" x="-12" y="1543"/>    
+    <display autosize="false" stereotype="false" accessors="true"/>  
+  </package>  
+  <package id="4" language="java" name="it.polimi.graziussi_ouafo.view" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/view" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1794" width="1096" x="2046" y="-49"/>    
+    <display autosize="false" stereotype="false" accessors="true"/>  
+  </package>  
+  <package id="5" language="java" name="it.polimi.graziussi_ouafo.model" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/model" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1577" width="967" x="-14" y="-59"/>    
+    <display autosize="false" stereotype="false" accessors="true"/>  
+  </package>  
+  <class id="6" language="java" name="it.polimi.graziussi_ouafo.controller.SelectActionBuyTerrainTile" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/SelectActionBuyTerrainTile.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1222" y="1279"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="it.polimi.graziussi_ouafo.controller.EndOfGameManager" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/EndOfGameManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1688" y="86"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="it.polimi.graziussi_ouafo.controller.ActionMoveShepherd" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/ActionMoveShepherd.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1321" y="1593"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="it.polimi.graziussi_ouafo.controller.ActionChooseShepherd" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/ActionChooseShepherd.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1852" y="2069"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="it.polimi.graziussi_ouafo.controller.TurnSchedulerRemoteInterface" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/TurnSchedulerRemoteInterface.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1226" y="26"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="11" language="java" name="it.polimi.graziussi_ouafo.controller.TurnScheduler" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/TurnScheduler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1232" y="505"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="it.polimi.graziussi_ouafo.controller.Server.ClientConnectionThread" 
+    project="graziussi_ouafo" file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/Server.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1720" y="376"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="it.polimi.graziussi_ouafo.controller.Server" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/Server.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1728" y="674"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="it.polimi.graziussi_ouafo.controller.SelectActionShepherdStartingPosition" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/SelectActionShepherdStartingPosition.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1625" y="1398"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="it.polimi.graziussi_ouafo.controller.ActionShepherdStartingPosition" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/ActionShepherdStartingPosition.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1484" y="2095"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="it.polimi.graziussi_ouafo.controller.SelectActionMoveShepherd" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/SelectActionMoveShepherd.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1408" y="1022"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="it.polimi.graziussi_ouafo.controller.ActionMating" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/ActionMating.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1220" y="1719"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="it.polimi.graziussi_ouafo.controller.ActionMoveSheep" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/ActionMoveSheep.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1223" y="1971"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="it.polimi.graziussi_ouafo.controller.ActionStrategy" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/ActionStrategy.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1665" y="1840"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="it.polimi.graziussi_ouafo.controller.SelectActionMating" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/SelectActionMating.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1222" y="1140"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="it.polimi.graziussi_ouafo.controller.SelectActionMoveSheep" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/SelectActionMoveSheep.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1248" y="1403"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="it.polimi.graziussi_ouafo.controller.ActionBuyTerrainTile" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/ActionBuyTerrainTile.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1199" y="1850"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="it.polimi.graziussi_ouafo.controller.ActionShooting" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/ActionShooting.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1681" y="1636"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="it.polimi.graziussi_ouafo.controller.SelectActionStrategy" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/SelectActionStrategy.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1712" y="1215"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="it.polimi.graziussi_ouafo.controller.SelectActionShooting" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/controller/SelectActionShooting.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1725" y="1045"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="it.polimi.graziussi_ouafo.model.Shepherd" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/model/Shepherd.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="101" y="1003"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="it.polimi.graziussi_ouafo.model.GameState" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/model/GameState.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="517" y="377"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="28" language="java" name="it.polimi.graziussi_ouafo.model.PlayerColor" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/model/PlayerColor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="140" y="164"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="29" language="java" name="it.polimi.graziussi_ouafo.model.RegionType" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/model/RegionType.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="852" y="1024"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="30" language="java" name="it.polimi.graziussi_ouafo.model.Player" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/model/Player.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="147" y="561"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="it.polimi.graziussi_ouafo.model.Region" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/model/Region.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="604" y="1186"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="it.polimi.graziussi_ouafo.model.PlayerTurn" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/model/PlayerTurn.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="846" y="87"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="it.polimi.graziussi_ouafo.model.TerrainTileDeck" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/model/TerrainTileDeck.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="845" y="714"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="it.polimi.graziussi_ouafo.model.Road" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/model/Road.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="319" y="1096"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="it.polimi.graziussi_ouafo.view.ClientSocket" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/view/ClientSocket.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2252" y="199"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="36" language="java" name="it.polimi.graziussi_ouafo.view.GameWindowRemoteInterface" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/view/GameWindowRemoteInterface.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2252" y="742"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="37" language="java" name="it.polimi.graziussi_ouafo.view.SelectActionButton" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/view/SelectActionButton.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2248" y="461"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="it.polimi.graziussi_ouafo.view.MapPanel" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/view/MapPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2993" y="1075"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="it.polimi.graziussi_ouafo.view.GameWindow" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/view/GameWindow.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2262" y="1241"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="40" language="java" name="it.polimi.graziussi_ouafo.view.DimensionConstants" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/view/DimensionConstants.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2993" y="1470"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="41" language="java" name="it.polimi.graziussi_ouafo.view.ResourcePaths" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/view/ResourcePaths.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3006" y="297"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="42" language="java" name="it.polimi.graziussi_ouafo.view.GameMap" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/view/GameMap.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2657" y="1324"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="it.polimi.graziussi_ouafo.view.MainMenu" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/view/MainMenu.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3003" y="744"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="44" language="java" name="it.polimi.graziussi_ouafo.view.GameMapRemoteInterface" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/view/GameMapRemoteInterface.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2640" y="758"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="45" language="java" name="it.polimi.graziussi_ouafo.view.TextArea" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/view/TextArea.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2620" y="273"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="it.polimi.graziussi_ouafo.main.ActionNotAllowedException" 
+    project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/main/ActionNotAllowedException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="498" y="2094"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="47" language="java" name="it.polimi.graziussi_ouafo.main.MiscConstants" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/main/MiscConstants.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="647" y="1804"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="48" language="java" name="it.polimi.graziussi_ouafo.main.GameErrorException" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/main/GameErrorException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="806" y="2092"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="it.polimi.graziussi_ouafo.main.MapInitializer" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/main/MapInitializer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="173" y="1770"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="it.polimi.graziussi_ouafo.main.Main" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/main/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="169" y="2061"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="it.polimi.graziussi_ouafo.events.AbstractActionEvent" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/events/AbstractActionEvent.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2249" y="2050"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="it.polimi.graziussi_ouafo.events.SheepEvent" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/events/SheepEvent.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2722" y="2077"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="it.polimi.graziussi_ouafo.events.ChooseShepherdEvent" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/events/ChooseShepherdEvent.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2988" y="1954"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="it.polimi.graziussi_ouafo.events.SelectActionEvent" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/events/SelectActionEvent.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2222" y="1855"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="it.polimi.graziussi_ouafo.events.RoadEvent" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/events/RoadEvent.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2898" y="1838"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="it.polimi.graziussi_ouafo.events.DeckEvent" project="graziussi_ouafo" 
+    file="/graziussi_ouafo/src/main/java/it/polimi/graziussi_ouafo/events/DeckEvent.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2514" y="1866"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="57">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <generalization id="58">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="59">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="60">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="62">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="63">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="64">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <nesting id="65">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <generalization id="66">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <generalization id="67">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <realization id="68">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="36"/>  
+  </realization>  
+  <realization id="69">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="44"/>  
+  </realization>  
+  <generalization id="70">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="71">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="72">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="73">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <realization id="74">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <generalization id="75">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="76">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="77">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

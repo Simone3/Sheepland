@@ -1,0 +1,895 @@
+<map>
+
+	
+	<!-- REGIONS -->
+	
+	<region id="0">
+		<whiteSheepXcoord>695</whiteSheepXcoord>
+		<whiteSheepYcoord>323</whiteSheepYcoord>
+		<blackSheepXcoord>693</blackSheepXcoord>
+		<blackSheepYcoord>295</blackSheepYcoord>
+		<wolfXcoord>695</wolfXcoord>
+		<wolfYcoord>339</wolfYcoord>
+		<type>SHEEPSBURG</type>
+	</region>
+	
+	<region id="1">
+		<whiteSheepXcoord>519</whiteSheepXcoord>
+		<whiteSheepYcoord>184</whiteSheepYcoord>
+		<blackSheepXcoord>548</blackSheepXcoord>
+		<blackSheepYcoord>214</blackSheepYcoord>
+		<wolfXcoord>497</wolfXcoord>
+		<wolfYcoord>125</wolfYcoord>
+		<type>HILL</type>
+	</region>
+	
+	<region id="2">
+		<whiteSheepXcoord>552</whiteSheepXcoord>
+		<whiteSheepYcoord>309</whiteSheepYcoord>
+		<blackSheepXcoord>545</blackSheepXcoord>
+		<blackSheepYcoord>272</blackSheepYcoord>
+		<wolfXcoord>533</wolfXcoord>
+		<wolfYcoord>341</wolfYcoord>
+		<type>HILL</type>
+	</region>
+	
+	<region id="3">
+		<whiteSheepXcoord>626</whiteSheepXcoord>
+		<whiteSheepYcoord>396</whiteSheepYcoord>
+		<blackSheepXcoord>619</blackSheepXcoord>
+		<blackSheepYcoord>358</blackSheepYcoord>
+		<wolfXcoord>625</wolfXcoord>
+		<wolfYcoord>423</wolfYcoord>
+		<type>HILL</type>
+	</region>
+	
+	<region id="4">
+		<whiteSheepXcoord>540</whiteSheepXcoord>
+		<whiteSheepYcoord>450</whiteSheepYcoord>
+		<blackSheepXcoord>555</blackSheepXcoord>
+		<blackSheepYcoord>417</blackSheepYcoord>
+		<wolfXcoord>524</wolfXcoord>
+		<wolfYcoord>480</wolfYcoord>
+		<type>FOREST</type>
+	</region>
+	
+	<region id="5">
+		<whiteSheepXcoord>608</whiteSheepXcoord>
+		<whiteSheepYcoord>525</whiteSheepYcoord>
+		<blackSheepXcoord>630</blackSheepXcoord>
+		<blackSheepYcoord>502</blackSheepYcoord>
+		<wolfXcoord>573</wolfXcoord>
+		<wolfYcoord>553</wolfYcoord>
+		<type>FOREST</type>
+	</region>
+	
+	<region id="6">
+		<whiteSheepXcoord>698</whiteSheepXcoord>
+		<whiteSheepYcoord>440</whiteSheepYcoord>
+		<blackSheepXcoord>700</blackSheepXcoord>
+		<blackSheepYcoord>401</blackSheepYcoord>
+		<wolfXcoord>695</wolfXcoord>
+		<wolfYcoord>471</wolfYcoord>
+		<type>FOREST</type>
+	</region>
+	
+	<region id="7">
+		<whiteSheepXcoord>664</whiteSheepXcoord>
+		<whiteSheepYcoord>592</whiteSheepYcoord>
+		<blackSheepXcoord>700</blackSheepXcoord>
+		<blackSheepYcoord>546</blackSheepYcoord>
+		<wolfXcoord>632</wolfXcoord>
+		<wolfYcoord>626</wolfYcoord>
+		<type>SWAMP</type>
+	</region>
+	
+	<region id="8">
+		<whiteSheepXcoord>778</whiteSheepXcoord>
+		<whiteSheepYcoord>514</whiteSheepYcoord>
+		<blackSheepXcoord>768</blackSheepXcoord>
+		<blackSheepYcoord>480</blackSheepYcoord>
+		<wolfXcoord>784</wolfXcoord>
+		<wolfYcoord>559</wolfYcoord>
+		<type>SWAMP</type>
+	</region>
+	
+	<region id="9">
+		<whiteSheepXcoord>772</whiteSheepXcoord>
+		<whiteSheepYcoord>385</whiteSheepYcoord>
+		<blackSheepXcoord>788</blackSheepXcoord>
+		<blackSheepYcoord>357</blackSheepYcoord>
+		<wolfXcoord>766</wolfXcoord>
+		<wolfYcoord>415</wolfYcoord>
+		<type>SWAMP</type>
+	</region>
+	
+	<region id="10">
+		<whiteSheepXcoord>850</whiteSheepXcoord>
+		<whiteSheepYcoord>437</whiteSheepYcoord>
+		<blackSheepXcoord>854</blackSheepXcoord>
+		<blackSheepYcoord>411</blackSheepYcoord>
+		<wolfXcoord>832</wolfXcoord>
+		<wolfYcoord>464</wolfYcoord>
+		<type>DESERT</type>
+	</region>
+	
+	<region id="11">
+		<whiteSheepXcoord>850</whiteSheepXcoord>
+		<whiteSheepYcoord>315</whiteSheepYcoord>
+		<blackSheepXcoord>875</blackSheepXcoord>
+		<blackSheepYcoord>282</blackSheepYcoord>
+		<wolfXcoord>859</wolfXcoord>
+		<wolfYcoord>345</wolfYcoord>
+		<type>DESERT</type>
+	</region>
+	
+	<region id="12">
+		<whiteSheepXcoord>781</whiteSheepXcoord>
+		<whiteSheepYcoord>272</whiteSheepYcoord>
+		<blackSheepXcoord>806</blackSheepXcoord>
+		<blackSheepYcoord>251</blackSheepYcoord>
+		<wolfXcoord>762</wolfXcoord>
+		<wolfYcoord>292</wolfYcoord>
+		<type>DESERT</type>
+	</region>
+	
+	<region id="13">
+		<whiteSheepXcoord>875</whiteSheepXcoord>
+		<whiteSheepYcoord>203</whiteSheepYcoord>
+		<blackSheepXcoord>854</blackSheepXcoord>
+		<blackSheepYcoord>231</blackSheepYcoord>
+		<wolfXcoord>897</wolfXcoord>
+		<wolfYcoord>188</wolfYcoord>
+		<type>MOUNTAIN</type>
+	</region>
+	
+	<region id="14">
+		<whiteSheepXcoord>816</whiteSheepXcoord>
+		<whiteSheepYcoord>145</whiteSheepYcoord>
+		<blackSheepXcoord>794</blackSheepXcoord>
+		<blackSheepYcoord>171</blackSheepYcoord>
+		<wolfXcoord>848</wolfXcoord>
+		<wolfYcoord>118</wolfYcoord>
+		<type>MOUNTAIN</type>
+	</region>
+	
+	<region id="15">
+		<whiteSheepXcoord>712</whiteSheepXcoord>
+		<whiteSheepYcoord>213</whiteSheepYcoord>
+		<blackSheepXcoord>715</blackSheepXcoord>
+		<blackSheepYcoord>188</blackSheepYcoord>
+		<wolfXcoord>713</wolfXcoord>
+		<wolfYcoord>237</wolfYcoord>
+		<type>MOUNTAIN</type>
+	</region>
+	
+	<region id="16">
+		<whiteSheepXcoord>745</whiteSheepXcoord>
+		<whiteSheepYcoord>104</whiteSheepYcoord>
+		<blackSheepXcoord>733</blackSheepXcoord>
+		<blackSheepYcoord>133</blackSheepYcoord>
+		<wolfXcoord>787</wolfXcoord>
+		<wolfYcoord>66</wolfYcoord>
+		<type>PASTURE</type>
+	</region>
+	
+	<region id="17">
+		<whiteSheepXcoord>622</whiteSheepXcoord>
+		<whiteSheepYcoord>151</whiteSheepYcoord>
+		<blackSheepXcoord>662</blackSheepXcoord>
+		<blackSheepYcoord>141</blackSheepYcoord>
+		<wolfXcoord>587</wolfXcoord>
+		<wolfYcoord>146</wolfYcoord>
+		<type>PASTURE</type>
+	</region>
+	
+	<region id="18">
+		<whiteSheepXcoord>627</whiteSheepXcoord>
+		<whiteSheepYcoord>260</whiteSheepYcoord>
+		<blackSheepXcoord>642</blackSheepXcoord>
+		<blackSheepYcoord>230</blackSheepYcoord>
+		<wolfXcoord>622</wolfXcoord>
+		<wolfYcoord>287</wolfYcoord>
+		<type>PASTURE</type>
+	</region>
+	
+
+	<!-- ROADS -->		
+		
+	<road id="0">
+		<Xcoord>560</Xcoord>
+		<Ycoord>179</Ycoord>
+		<number>2</number>
+		<region1 idref="1"/>
+		<region2 idref="17"/>
+	</road>
+	
+	<road id="1">
+		<Xcoord>590</Xcoord>
+		<Ycoord>227</Ycoord>
+		<number>3</number>
+		<region1 idref="1"/>
+		<region2 idref="18"/>
+	</road>
+	
+	<road id="2">
+		<Xcoord>516</Xcoord>
+		<Ycoord>257</Ycoord>
+		<number>1</number>
+		<region1 idref="1"/>
+		<region2 idref="2"/>
+	</road>
+	
+	<road id="3">
+		<Xcoord>589</Xcoord>
+		<Ycoord>285</Ycoord>
+		<number>2</number>
+		<region1 idref="2"/>
+		<region2 idref="18"/>
+	</road>
+	
+	<road id="4">
+		<Xcoord>621</Xcoord>
+		<Ycoord>326</Ycoord>
+		<number>1</number>
+		<region1 idref="3"/>
+		<region2 idref="18"/>
+	</road>
+	
+	<road id="5">
+		<Xcoord>589</Xcoord>
+		<Ycoord>351</Ycoord>
+		<number>3</number>
+		<region1 idref="2"/>
+		<region2 idref="3"/>
+	</road>
+	
+	<road id="6">
+		<Xcoord>553</Xcoord>
+		<Ycoord>386</Ycoord>
+		<number>4</number>
+		<region1 idref="2"/>
+		<region2 idref="4"/>
+	</road>
+	
+	<road id="7">
+		<Xcoord>594</Xcoord>
+		<Ycoord>419</Ycoord>
+		<number>2</number>
+		<region1 idref="3"/>
+		<region2 idref="4"/>
+	</road>
+	
+	<road id="8">
+		<Xcoord>560</Xcoord>
+		<Ycoord>528</Ycoord>
+		<number>1</number>
+		<region1 idref="4"/>
+		<region2 idref="5"/>
+	</road>
+	
+	<road id="9">
+		<Xcoord>626</Xcoord>
+		<Ycoord>465</Ycoord>
+		<number>4</number>
+		<region1 idref="3"/>
+		<region2 idref="5"/>
+	</road>
+	
+	<road id="10">
+		<Xcoord>664</Xcoord>
+		<Ycoord>484</Ycoord>
+		<number>3</number>
+		<region1 idref="5"/>
+		<region2 idref="6"/>
+	</road>
+	
+	<road id="11">
+		<Xcoord>625</Xcoord>
+		<Ycoord>581</Ycoord>
+		<number>2</number>
+		<region1 idref="5"/>
+		<region2 idref="7"/>
+	</road>
+	
+	<road id="12">
+		<Xcoord>701</Xcoord>
+		<Ycoord>509</Ycoord>
+		<number>1</number>
+		<region1 idref="6"/>
+		<region2 idref="7"/>
+	</road>
+	
+	<road id="13">
+		<Xcoord>737</Xcoord>
+		<Ycoord>556</Ycoord>
+		<number>5</number>
+		<region1 idref="7"/>
+		<region2 idref="8"/>
+	</road>
+	
+	<road id="14">
+		<Xcoord>737</Xcoord>
+		<Ycoord>479</Ycoord>
+		<number>2</number>
+		<region1 idref="6"/>
+		<region2 idref="8"/>
+	</road>
+	
+	<road id="15">
+		<Xcoord>766</Xcoord>
+		<Ycoord>452</Ycoord>
+		<number>6</number>
+		<region1 idref="8"/>
+		<region2 idref="9"/>
+	</road>
+	
+	<road id="16">
+		<Xcoord>813</Xcoord>
+		<Ycoord>498</Ycoord>
+		<number>1</number>
+		<region1 idref="8"/>
+		<region2 idref="10"/>
+	</road>
+	
+	<road id="17">
+		<Xcoord>807</Xcoord>
+		<Ycoord>410</Ycoord>
+		<number>4</number>
+		<region1 idref="9"/>
+		<region2 idref="10"/>
+	</road>
+	
+	<road id="18">
+		<Xcoord>870</Xcoord>
+		<Ycoord>385</Ycoord>
+		<number>5</number>
+		<region1 idref="10"/>
+		<region2 idref="11"/>
+	</road>
+	
+	<road id="19">
+		<Xcoord>825</Xcoord>
+		<Ycoord>343</Ycoord>
+		<number>2</number>
+		<region1 idref="9"/>
+		<region2 idref="11"/>
+	</road>
+	
+	<road id="20">
+		<Xcoord>825</Xcoord>
+		<Ycoord>291</Ycoord>
+		<number>6</number>
+		<region1 idref="11"/>
+		<region2 idref="12"/>
+	</road>
+	
+	<road id="21">
+		<Xcoord>882</Xcoord>
+		<Ycoord>257</Ycoord>
+		<number>1</number>
+		<region1 idref="11"/>
+		<region2 idref="13"/>
+	</road>
+	
+	<road id="22">
+		<Xcoord>833</Xcoord>
+		<Ycoord>239</Ycoord>
+		<number>3</number>
+		<region1 idref="12"/>
+		<region2 idref="13"/>
+	</road>
+	
+	<road id="23">
+		<Xcoord>850</Xcoord>
+		<Ycoord>174</Ycoord>
+		<number>2</number>
+		<region1 idref="13"/>
+		<region2 idref="14"/>
+	</road>
+	
+	<road id="24">
+		<Xcoord>784</Xcoord>
+		<Ycoord>123</Ycoord>
+		<number>1</number>
+		<region1 idref="14"/>
+		<region2 idref="16"/>
+	</road>
+	
+	<road id="25">
+		<Xcoord>692</Xcoord>
+		<Ycoord>117</Ycoord>
+		<number>3</number>
+		<region1 idref="16"/>
+		<region2 idref="17"/>
+	</road>
+	
+	<road id="26">
+		<Xcoord>639</Xcoord>
+		<Ycoord>207</Ycoord>
+		<number>4</number>
+		<region1 idref="17"/>
+		<region2 idref="18"/>
+	</road>
+	
+	<road id="27">
+		<Xcoord>687</Xcoord>
+		<Ycoord>183</Ycoord>
+		<number>6</number>
+		<region1 idref="15"/>
+		<region2 idref="17"/>
+	</road>
+	
+	<road id="28">
+		<Xcoord>729</Xcoord>
+		<Ycoord>172</Ycoord>
+		<number>2</number>
+		<region1 idref="15"/>
+		<region2 idref="16"/>
+	</road>
+	
+	<road id="29">
+		<Xcoord>762</Xcoord>
+		<Ycoord>198</Ycoord>
+		<number>3</number>
+		<region1 idref="14"/>
+		<region2 idref="15"/>
+	</road>
+	
+	<road id="30">
+		<Xcoord>794</Xcoord>
+		<Ycoord>221</Ycoord>
+		<number>5</number>
+		<region1 idref="12"/>
+		<region2 idref="14"/>
+	</road>
+	
+	<road id="31">
+		<Xcoord>748</Xcoord>
+		<Ycoord>246</Ycoord>
+		<number>4</number>
+		<region1 idref="12"/>
+		<region2 idref="15"/>
+	</road>
+	
+	<road id="32">
+		<Xcoord>675</Xcoord>
+		<Ycoord>236</Ycoord>
+		<number>5</number>
+		<region1 idref="15"/>
+		<region2 idref="18"/>
+	</road>
+	
+	<road id="33">
+		<Xcoord>697</Xcoord>
+		<Ycoord>271</Ycoord>
+		<number>1</number>
+		<region1 idref="0"/>
+		<region2 idref="15"/>
+	</road>
+	
+	<road id="34">
+		<Xcoord>733</Xcoord>
+		<Ycoord>294</Ycoord>
+		<number>2</number>
+		<region1 idref="0"/>
+		<region2 idref="12"/>
+	</road>
+	
+	<road id="35">
+		<Xcoord>771</Xcoord>
+		<Ycoord>325</Ycoord>
+		<number>1</number>
+		<region1 idref="9"/>
+		<region2 idref="12"/>
+	</road>
+	
+	<road id="36">
+		<Xcoord>738</Xcoord>
+		<Ycoord>347</Ycoord>
+		<number>3</number>
+		<region1 idref="0"/>
+		<region2 idref="9"/>
+	</road>
+	
+	<road id="37">
+		<Xcoord>738</Xcoord>
+		<Ycoord>405</Ycoord>
+		<number>5</number>
+		<region1 idref="6"/>
+		<region2 idref="9"/>
+	</road>
+	
+	<road id="38">
+		<Xcoord>704</Xcoord>
+		<Ycoord>372</Ycoord>
+		<number>4</number>
+		<region1 idref="0"/>
+		<region2 idref="6"/>
+	</road>
+	
+	<road id="39">
+		<Xcoord>661</Xcoord>
+		<Ycoord>347</Ycoord>
+		<number>5</number>
+		<region1 idref="0"/>
+		<region2 idref="3"/>
+	</road>
+	
+	<road id="40">
+		<Xcoord>668</Xcoord>
+		<Ycoord>417</Ycoord>
+		<number>6</number>
+		<region1 idref="3"/>
+		<region2 idref="6"/>
+	</road>
+	
+	<road id="41">
+		<Xcoord>657</Xcoord>
+		<Ycoord>295</Ycoord>
+		<number>6</number>
+		<region1 idref="0"/>
+		<region2 idref="18"/>
+	</road>
+	
+	
+	<!-- LINKS BETWEEN ROADS -->
+
+	<roadLink>
+		<road1 idref="0"/>
+		<road2 idref="1"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="0"/>
+		<road2 idref="26"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="1"/>
+		<road2 idref="26"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="1"/>
+		<road2 idref="2"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="1"/>
+		<road2 idref="3"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="2"/>
+		<road2 idref="3"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="3"/>
+		<road2 idref="4"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="3"/>
+		<road2 idref="5"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="4"/>
+		<road2 idref="41"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="4"/>
+		<road2 idref="39"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="4"/>
+		<road2 idref="5"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="5"/>
+		<road2 idref="6"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="5"/>
+		<road2 idref="7"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="6"/>
+		<road2 idref="7"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="7"/>
+		<road2 idref="8"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="7"/>
+		<road2 idref="9"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="8"/>
+		<road2 idref="9"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="9"/>
+		<road2 idref="40"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="9"/>
+		<road2 idref="10"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="10"/>
+		<road2 idref="11"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="10"/>
+		<road2 idref="12"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="10"/>
+		<road2 idref="40"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="11"/>
+		<road2 idref="12"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="12"/>
+		<road2 idref="13"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="12"/>
+		<road2 idref="14"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="13"/>
+		<road2 idref="14"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="14"/>
+		<road2 idref="15"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="14"/>
+		<road2 idref="37"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="15"/>
+		<road2 idref="16"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="15"/>
+		<road2 idref="17"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="15"/>
+		<road2 idref="37"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="16"/>
+		<road2 idref="17"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="17"/>
+		<road2 idref="18"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="17"/>
+		<road2 idref="19"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="18"/>
+		<road2 idref="19"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="19"/>
+		<road2 idref="20"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="19"/>
+		<road2 idref="35"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="20"/>
+		<road2 idref="21"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="20"/>
+		<road2 idref="35"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="21"/>
+		<road2 idref="22"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="22"/>
+		<road2 idref="23"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="22"/>
+		<road2 idref="30"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="23"/>
+		<road2 idref="30"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="24"/>
+		<road2 idref="28"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="24"/>
+		<road2 idref="29"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="25"/>
+		<road2 idref="27"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="25"/>
+		<road2 idref="28"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="26"/>
+		<road2 idref="27"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="26"/>
+		<road2 idref="32"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="27"/>
+		<road2 idref="28"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="27"/>
+		<road2 idref="32"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="28"/>
+		<road2 idref="29"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="29"/>
+		<road2 idref="30"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="29"/>
+		<road2 idref="31"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="30"/>
+		<road2 idref="31"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="31"/>
+		<road2 idref="33"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="31"/>
+		<road2 idref="34"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="32"/>
+		<road2 idref="33"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="32"/>
+		<road2 idref="41"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="33"/>
+		<road2 idref="34"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="33"/>
+		<road2 idref="41"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="34"/>
+		<road2 idref="35"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="34"/>
+		<road2 idref="36"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="35"/>
+		<road2 idref="36"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="36"/>
+		<road2 idref="37"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="36"/>
+		<road2 idref="38"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="37"/>
+		<road2 idref="38"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="38"/>
+		<road2 idref="39"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="38"/>
+		<road2 idref="40"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="39"/>
+		<road2 idref="40"/>
+	</roadLink>
+	
+	<roadLink>
+		<road1 idref="39"/>
+		<road2 idref="41"/>
+	</roadLink>
+	
+	
+
+</map>
